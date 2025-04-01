@@ -1,0 +1,6 @@
+requests
+rich
+urllib3
+httpx
+zlib
+urllib
